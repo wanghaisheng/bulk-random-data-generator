@@ -1,4 +1,4 @@
-# believable-random-data-generator
+# shop conna bulk-random-data-generator
 
 Arrays of first and last names, nicknames, cities, countries, animals, colors, sonets, fantasy features, elements, creatures etc.
 
